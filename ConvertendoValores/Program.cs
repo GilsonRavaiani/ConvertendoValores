@@ -27,6 +27,8 @@ namespace ConvertendoValores
             Console.WriteLine("Seu salário é..:{0,15:c}",salario);            //imprimindo concatenando com salario
             Console.WriteLine("Salário base é.:{0,15:c}",salarioBase);       //**Colocar em formato moeda*
             Console.ReadLine();
+
+            //Testando atualização github 24/05/2022 19:21
             
 
         }
